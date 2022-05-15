@@ -4,14 +4,14 @@
 
 ## How to Install
 
-Using nuget, install `NASA_APOD`. ([link](https://www.nuget.org/packages/NASA_APOD/))
+Using nuget, install `NASA_APOD` ([link](https://www.nuget.org/packages/NASA_APOD/))
 
 (`dotnet add package NASA_APOD`)
 
 ## How to Use
 
 * Instantiate APOD_CLIENT (such as on app enter)
-* Query with yourClient.Query(your, parameters);
+* Query with `yourClient.Query(your, parameters);`
 * Dispose when no longer being used (such as on app exit)
 
 ## Short Example
