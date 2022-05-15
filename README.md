@@ -1,4 +1,4 @@
-![issues](https://img.shields.io/github/issues/developerx-official/NASA_APOD_API) ![forks](https://img.shields.io/github/forks/developerx-official/NASA_APOD_API) ![stars](https://img.shields.io/github/stars/developerx-official/NASA_APOD_API) ![license](https://img.shields.io/github/license/developerx-official/NASA_APOD_API) ![codeql-analysis](https://github.com/developerx-official/NASA_APOD_API/actions/workflows/codeql-analysis.yml/badge.svg)
+![issues](https://img.shields.io/github/issues/developerx-official/NASA_APOD_API) ![forks](https://img.shields.io/github/forks/developerx-official/NASA_APOD_API) ![stars](https://img.shields.io/github/stars/developerx-official/NASA_APOD_API) ![license](https://img.shields.io/github/license/developerx-official/NASA_APOD_API) ![codeql-analysis](https://github.com/developerx-official/NASA_APOD_API/actions/workflows/codeql-analysis.yml/badge.svg) ![codeql-analysis](https://img.shields.io/badge/dependabot-enabled-blue)
 
 # NASA_APOD_API
 
