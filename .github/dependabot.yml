@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "nuget"
-    directory: "/"
+    directory: "NASA_APOD/NASA_APOD.csproj"
     schedule:
       interval: "daily"
