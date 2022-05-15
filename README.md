@@ -1,3 +1,5 @@
+![issues](https://img.shields.io/github/issues/developerx-official/NASA_APOD_API) ![forks](https://img.shields.io/github/forks/developerx-official/NASA_APOD_API) ![stars](https://img.shields.io/github/stars/developerx-official/NASA_APOD_API) ![license](https://img.shields.io/github/license/developerx-official/NASA_APOD_API)
+
 # NASA_APOD_API
 
 ## How to Install
