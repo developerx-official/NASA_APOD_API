@@ -4,7 +4,7 @@
 
 ## How to Install
 
-Using nuget, install `NASA_APOD`.
+Using nuget, install `NASA_APOD`. ([link](https://www.nuget.org/packages/NASA_APOD/))
 
 (`dotnet add package NASA_APOD`)
 
