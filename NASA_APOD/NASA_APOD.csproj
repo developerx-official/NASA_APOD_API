@@ -9,7 +9,7 @@
     <Description>A wrapper for NASA's APOD API</Description>
     <Copyright>Copyright © 2022</Copyright>
     <PackageTags>NASA;APOD;API</PackageTags>
-    <PackageReleaseNotes>Initial package</PackageReleaseNotes>
+    <PackageReleaseNotes>Updated to new WebApi</PackageReleaseNotes>
     <AssemblyVersion>1.0.1</AssemblyVersion>
     <FileVersion>1.0.1</FileVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
