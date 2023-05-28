@@ -4,14 +4,14 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Developer X</Authors>
     <Description>A wrapper for NASA's APOD API</Description>
     <Copyright>Copyright © 2022</Copyright>
     <PackageTags>NASA;APOD;API</PackageTags>
     <PackageReleaseNotes>Updated to new WebApi</PackageReleaseNotes>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageReadmeFile></PackageReadmeFile>
